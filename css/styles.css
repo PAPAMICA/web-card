@@ -499,7 +499,6 @@ label {
   background: black;
   margin: 10px 4px 0px 0px;
   color: white !important;
-  float: left;
   line-height: 23px;
 }
 .vcard-template .vcard-body .vcard-social .icon-wrapper.pointer {
@@ -1541,7 +1540,6 @@ select:focus {
 }
 .fab-body {
   width: 100%;
-  float: left;
   display: inline-block;
   text-align: left;
   padding: 25px;
@@ -1627,7 +1625,6 @@ select:focus {
   font-weight: 500;
 }
 .fab-body input {
-  float: left;
   width: 65%;
   margin-left: 35px;
   box-shadow: none;
@@ -1662,7 +1659,6 @@ select:focus {
   font-weight: 500;
   color: #4b4b4b;
   -webkit-font-smoothing: antialiased;
-  font-smoothing: antialiased;
   border: none;
   outline: none;
   background: #eceff1;
@@ -2346,9 +2342,6 @@ div[class^="channel-bgd-"] i {
   content: "\5b";
 }
 
-
-@charset "UTF-8";
-
 @font-face {
   font-family: "solution-vcard-icons";
   src:url("fonts/solution-vcard-icons.eot");
@@ -2368,7 +2361,6 @@ div[class^="channel-bgd-"] i {
   font-weight: normal !important;
   font-variant: normal !important;
   text-transform: none !important;
-  speak: none;
   line-height: 1;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -2381,7 +2373,6 @@ div[class^="channel-bgd-"] i {
   font-weight: normal !important;
   font-variant: normal !important;
   text-transform: none !important;
-  speak: none;
   line-height: 1;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
