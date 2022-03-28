@@ -1,6 +1,7 @@
 # web-card
 Une vcard web partageable et ajoutable en un clic au répertoire !
 ![demo](https://send.papamica.fr/f.php?h=1WgVtO_m&p=1)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ## Personnalisation
 
