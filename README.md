@@ -61,9 +61,9 @@ json_data = {
 ```
 
 Remplacez les valeurs suivantes :
-- <website>
-- <url>
-- <username>
+- website
+- url
+- username
 
 Ainsi que les variables pour votre adresse et contact.
 Vous pouvez décommentez les réseaux sociaux que vous souhaitez. 
