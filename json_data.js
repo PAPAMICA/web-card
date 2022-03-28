@@ -1,10 +1,3 @@
-# web-card
-Une vcard web partageable et ajoutable en un clic au répertoire !
-
-## Personnalisation
-
-### json_data.js
-```js
 json_data = {
     show_directions: false,
     showPreview: 1,
@@ -58,43 +51,3 @@ json_data = {
     website: "<website>",
     bio: "<bio>",
 };
-```
-
-Remplacez les valeurs suivantes :
-- <website>
-- <url>
-- <username>
-
-Ainsi que les variables pour votre adresse et contact.
-Vous pouvez décommentez les réseaux sociaux que vous souhaitez. 
-
-### /img/logo.png
-Vous pouvez mettre votre logo dans `/img/logo.png`.
-
-### /img/favicon/favicon.ico
-Vous pouvez mettre votre logo pour le favicon ici `/img/favicon/favicon.ico`.
-
-### /vcard.vcf
-C'est ici que vous mettez votre vcard. Je vous laisse un modèle à remplir au cas ou.
-```
-BEGIN:VCARD
-VERSION:3.0
-PRODID:
-N:
-FN:
-ORG:
-TITLE:
-EMAIL;TYPE=PREF,INTERNET:
-TEL;TYPE=CELL,voice:
-TEL;TYPE=WORK,voice:
-TEL;TYPE=WORK,fax:
-ADR;TYPE=
-URL:
-
-PHOTO;TYPE=JPG;ENCODING=
-
-NOTE:
-
-REV:2008-04-24T19:52:43Z
-END:VCARD
-```
