@@ -18,7 +18,6 @@ json_data = {
             // { input_prefix_label: "@", link: "<username>", label: "", name: "Instagram" },
             // { input_prefix_label: "URL", link: "<url>", label: "Find us on TikTok", name: "TikTok" },
             // { input_prefix_label: "Phone", link: "<numbers_phone>", label: "Message us", name: "WhatsApp" },
-            // { input_prefix_label: "URL", link: "<url>", label: "Find us on TikTok", name: "TikTok" },
             // { input_prefix_label: "URL", link: "<url>", label: "", name: "YouTube" },
             // { input_prefix_label: "URL", link: "<url>", label: "Get in touch", name: "Telegram" },
             // { input_prefix_label: "URL", link: "<url>", label: "Get in touch", name: "Messenger" },
