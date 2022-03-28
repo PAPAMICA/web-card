@@ -3,7 +3,7 @@ Une vcard web partageable et ajoutable en un clic au répertoire !
 
 ## Personnalisation
 
-### json_data.js
+### /json_data.js
 ```js
 json_data = {
     show_directions: false,
